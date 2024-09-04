@@ -1,4 +1,4 @@
-package com.lucky_andaman.backend.exeption;
+package com.lucky_andaman.backend.security;
 
 import com.lucky_andaman.backend.service.CustomUserDetailsService;
 import com.lucky_andaman.backend.utils.JWTUtils;
